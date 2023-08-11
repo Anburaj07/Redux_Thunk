@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": false
+    },
+    {
+      "title": "Redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "React",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn GIT",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "CSS",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "HTML",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Learn LIFE",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn GPT",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "HAi",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "KING",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
